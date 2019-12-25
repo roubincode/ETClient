@@ -3,9 +3,9 @@
 2 通过vs installer安装 .net framework (共享组件需要安装在C盘)  
 3 安装vs code 和vs code c#扩展  
 4 需要用uinty打开新下载的ES项目，使项目能正确加载unity引擎代码库   
-5 NLog.config文件解决ES4,5版本log输出问题  
+5 NLog.config文件解决ES4,5版本log输出问题(\ET-Branch_V5.0\Server\App)  
 6 设置launch.json文件，在vs code中对项目进行调试  
-7 用global.json指定项目net sdk版本
+7 用global.json指定项目net sdk版本  
 8 命令行编译Server/Hotfix/Server.Hotfix.csproj  
 9 调试运行服务端，运行客户端 
 
